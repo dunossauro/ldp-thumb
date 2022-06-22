@@ -1,5 +1,7 @@
 # ldp-thumb
 
+## This project is just an idea, there is *no code implemented YET*
+
 Project created to automate Live de Python's youtube channel thumbnail
 
 ## TODO
